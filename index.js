@@ -32,28 +32,17 @@ app.use('/cars/images', express.static('./storage/cars/images'));
 // Metadata endpoint for cars contract
 app.get('/nft/cars/:token_id', async function(req, res) {
     const tokenId = parseInt(req.params.token_id).toString()
+    const maxSupply = 500
 
-    // Call gtbCars contract to see what totalSupply() is make sure api does not expose metadata for tokens not minted yet (ethers.js)
-
-    /*
-    *  ETHERS CALL
-    */
-
-    
-    
-    let totalSupply = await carsContract.totalSupply()
-    
-    console.log(ethers.utils.formatUnits(totalSupply, 0))
-
-    let maxSupply = 500
+    let totalSupply = await carsContract.totalSupply() // Get current totalSupply from cars contract to make sure token is minted
 
     // Check that tokenId provided is a valid tokenId
     if (parseInt(tokenId) < 1 || parseInt(tokenId) > maxSupply || tokenId > Number(ethers.utils.formatUnits(totalSupply, 0))) {
-    errorData = {
-        'Error' : 'Token ID does not exist'
-    }
-    res.send(errorData)
-    return;
+        errorData = {
+            'Error' : 'Token ID does not exist'
+        }
+        res.send(errorData)
+        return;
     }
 
 
