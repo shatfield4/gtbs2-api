@@ -1,0 +1,21 @@
+{
+  "name": "gtbs2-api",
+  "version": "1.0.0",
+  "description": "Image and metadata API for GTBS2 cars and bacons contracts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "prod": "nohup node index.js &",
+    "kill": "killall node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "ethers": "^5.7.1",
+    "express": "^4.18.1",
+    "moment": "^2.29.4"
+  }
+}
