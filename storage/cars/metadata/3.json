@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #3",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "edition": 3,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

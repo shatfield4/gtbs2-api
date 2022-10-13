@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #301",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/301.png",
+  "edition": 301,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hell Flame"
+    }
+  ]
+}

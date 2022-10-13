@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #415",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/415.png",
+  "edition": 415,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #352",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/352.png",
+  "edition": 352,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

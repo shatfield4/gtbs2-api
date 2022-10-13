@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #453",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/453.png",
+  "edition": 453,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow 675LT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Phaser Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #430",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/430.png",
+  "edition": 430,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MGK 0047"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #1",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

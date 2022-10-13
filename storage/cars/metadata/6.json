@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #6",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "edition": 6,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Phaser Gun"
+    }
+  ]
+}

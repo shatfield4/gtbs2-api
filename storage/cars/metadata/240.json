@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #240",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/240.png",
+  "edition": 240,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Homing Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #459",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/459.png",
+  "edition": 459,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Classic Drop Top"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

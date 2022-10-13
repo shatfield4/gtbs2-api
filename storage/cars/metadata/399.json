@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #399",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/399.png",
+  "edition": 399,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Rotary SubMachine Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #74",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/74.png",
+  "edition": 74,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Phaser Gun"
+    }
+  ]
+}

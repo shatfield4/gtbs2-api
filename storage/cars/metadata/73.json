@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #73",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/73.png",
+  "edition": 73,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

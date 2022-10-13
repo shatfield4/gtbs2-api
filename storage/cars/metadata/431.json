@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #431",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/431.png",
+  "edition": 431,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "The Punisher"
+    }
+  ]
+}

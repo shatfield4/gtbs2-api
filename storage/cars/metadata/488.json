@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #488",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/488.png",
+  "edition": 488,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

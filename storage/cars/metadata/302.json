@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #302",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/302.png",
+  "edition": 302,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Phaser Gun"
+    }
+  ]
+}

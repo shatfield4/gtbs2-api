@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #197",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/197.png",
+  "edition": 197,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "The Punisher"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #289",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/289.png",
+  "edition": 289,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue 675LT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

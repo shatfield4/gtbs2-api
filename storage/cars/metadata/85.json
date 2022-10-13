@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #85",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/85.png",
+  "edition": 85,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

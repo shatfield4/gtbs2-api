@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #128",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/128.png",
+  "edition": 128,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

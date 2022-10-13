@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #217",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/217.png",
+  "edition": 217,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

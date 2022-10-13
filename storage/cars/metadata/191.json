@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #191",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/191.png",
+  "edition": 191,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

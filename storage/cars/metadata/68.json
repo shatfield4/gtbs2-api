@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #68",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/68.png",
+  "edition": 68,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Homing Gun"
+    }
+  ]
+}

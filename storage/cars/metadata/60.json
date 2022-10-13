@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #60",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/60.png",
+  "edition": 60,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

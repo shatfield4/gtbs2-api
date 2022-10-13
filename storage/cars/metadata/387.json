@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #387",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/387.png",
+  "edition": 387,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

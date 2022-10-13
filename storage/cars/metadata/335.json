@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #335",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/335.png",
+  "edition": 335,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Classic Drop Top"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

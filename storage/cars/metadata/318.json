@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #318",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/318.png",
+  "edition": 318,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hell Flame"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #391",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/391.png",
+  "edition": 391,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #122",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/122.png",
+  "edition": 122,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

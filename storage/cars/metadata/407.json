@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #407",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/407.png",
+  "edition": 407,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

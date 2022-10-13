@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #193",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/193.png",
+  "edition": 193,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

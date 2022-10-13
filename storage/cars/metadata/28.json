@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #28",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/28.png",
+  "edition": 28,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

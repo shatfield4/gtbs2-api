@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #370",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/370.png",
+  "edition": 370,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

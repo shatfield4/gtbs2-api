@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #389",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/389.png",
+  "edition": 389,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

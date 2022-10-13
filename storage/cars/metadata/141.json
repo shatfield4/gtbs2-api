@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #141",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/141.png",
+  "edition": 141,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

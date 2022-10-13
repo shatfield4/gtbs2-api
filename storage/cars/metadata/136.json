@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #136",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/136.png",
+  "edition": 136,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hell Flame"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #295",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/295.png",
+  "edition": 295,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hell Flame"
+    }
+  ]
+}

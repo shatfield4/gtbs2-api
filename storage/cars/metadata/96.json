@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #96",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/96.png",
+  "edition": 96,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #38",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/38.png",
+  "edition": 38,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MGK 0047"
+    }
+  ]
+}

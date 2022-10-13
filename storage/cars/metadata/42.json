@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #42",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/42.png",
+  "edition": 42,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Homing Gun"
+    }
+  ]
+}

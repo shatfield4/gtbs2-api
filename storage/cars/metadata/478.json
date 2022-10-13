@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #478",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/478.png",
+  "edition": 478,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

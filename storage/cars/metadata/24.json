@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #24",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/24.png",
+  "edition": 24,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

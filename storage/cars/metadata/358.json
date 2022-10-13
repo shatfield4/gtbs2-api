@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #358",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/358.png",
+  "edition": 358,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "The Punisher"
+    }
+  ]
+}

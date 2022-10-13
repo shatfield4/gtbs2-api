@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #490",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/490.png",
+  "edition": 490,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

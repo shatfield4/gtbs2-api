@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #375",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/375.png",
+  "edition": 375,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #147",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/147.png",
+  "edition": 147,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #164",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/164.png",
+  "edition": 164,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Phaser Gun"
+    }
+  ]
+}

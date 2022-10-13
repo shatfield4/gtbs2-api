@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #265",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/265.png",
+  "edition": 265,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MGK 0047"
+    }
+  ]
+}

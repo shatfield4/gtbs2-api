@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #56",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/56.png",
+  "edition": 56,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Homing Gun"
+    }
+  ]
+}

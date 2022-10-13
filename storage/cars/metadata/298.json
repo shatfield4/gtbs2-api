@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #298",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/298.png",
+  "edition": 298,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

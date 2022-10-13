@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #214",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/214.png",
+  "edition": 214,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

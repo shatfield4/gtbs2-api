@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #219",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/219.png",
+  "edition": 219,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue 675LT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

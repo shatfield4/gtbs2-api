@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #271",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/271.png",
+  "edition": 271,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

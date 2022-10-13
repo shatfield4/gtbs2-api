@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #479",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/479.png",
+  "edition": 479,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

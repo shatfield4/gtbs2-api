@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #262",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/262.png",
+  "edition": 262,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

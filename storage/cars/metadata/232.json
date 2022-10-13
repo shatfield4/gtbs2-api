@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #232",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/232.png",
+  "edition": 232,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #250",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/250.png",
+  "edition": 250,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Rotary SubMachine Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #192",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/192.png",
+  "edition": 192,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

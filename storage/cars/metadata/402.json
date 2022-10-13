@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #402",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/402.png",
+  "edition": 402,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hell Flame"
+    }
+  ]
+}

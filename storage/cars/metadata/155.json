@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #155",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/155.png",
+  "edition": 155,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Rotary SubMachine Gun"
+    }
+  ]
+}

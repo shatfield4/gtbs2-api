@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #5",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow 675LT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Rotary SubMachine Gun"
+    }
+  ]
+}

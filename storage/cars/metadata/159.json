@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #159",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/159.png",
+  "edition": 159,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Rotary SubMachine Gun"
+    }
+  ]
+}

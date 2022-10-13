@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #379",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/379.png",
+  "edition": 379,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

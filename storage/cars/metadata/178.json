@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #178",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/178.png",
+  "edition": 178,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

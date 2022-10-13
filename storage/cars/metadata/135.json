@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #135",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/135.png",
+  "edition": 135,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

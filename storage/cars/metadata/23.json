@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #23",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/23.png",
+  "edition": 23,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

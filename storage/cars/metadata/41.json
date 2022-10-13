@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #41",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/41.png",
+  "edition": 41,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

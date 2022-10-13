@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #91",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/91.png",
+  "edition": 91,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

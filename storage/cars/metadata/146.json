@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #146",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/146.png",
+  "edition": 146,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Phaser Gun"
+    }
+  ]
+}

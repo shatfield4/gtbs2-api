@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #101",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/101.png",
+  "edition": 101,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

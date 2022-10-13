@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #66",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/66.png",
+  "edition": 66,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

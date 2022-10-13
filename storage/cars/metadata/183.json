@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #183",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/183.png",
+  "edition": 183,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

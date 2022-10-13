@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #440",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/440.png",
+  "edition": 440,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

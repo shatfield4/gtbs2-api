@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #29",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/29.png",
+  "edition": 29,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Rotary SubMachine Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #382",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/382.png",
+  "edition": 382,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

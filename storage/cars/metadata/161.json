@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #161",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/161.png",
+  "edition": 161,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

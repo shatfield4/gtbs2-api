@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #206",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/206.png",
+  "edition": 206,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MGK 0047"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #319",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/319.png",
+  "edition": 319,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "The Punisher"
+    }
+  ]
+}

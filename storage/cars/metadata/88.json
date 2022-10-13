@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #88",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/88.png",
+  "edition": 88,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MGK 0047"
+    }
+  ]
+}

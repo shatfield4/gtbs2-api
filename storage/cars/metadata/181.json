@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #181",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/181.png",
+  "edition": 181,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

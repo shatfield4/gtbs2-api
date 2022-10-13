@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #211",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/211.png",
+  "edition": 211,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue 675LT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "The Punisher"
+    }
+  ]
+}

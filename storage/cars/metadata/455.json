@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #455",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/455.png",
+  "edition": 455,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

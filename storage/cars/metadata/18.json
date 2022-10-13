@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #18",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/18.png",
+  "edition": 18,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Homing Gun"
+    }
+  ]
+}

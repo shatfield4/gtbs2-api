@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #365",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/365.png",
+  "edition": 365,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red 675LT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

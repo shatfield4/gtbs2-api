@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #469",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/469.png",
+  "edition": 469,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Phaser Gun"
+    }
+  ]
+}

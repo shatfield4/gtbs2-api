@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #313",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/313.png",
+  "edition": 313,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

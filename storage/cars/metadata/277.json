@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #277",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/277.png",
+  "edition": 277,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Rotary SubMachine Gun"
+    }
+  ]
+}

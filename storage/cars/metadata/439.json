@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #439",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/439.png",
+  "edition": 439,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Homing Gun"
+    }
+  ]
+}

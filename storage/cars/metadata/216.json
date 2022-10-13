@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #216",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/216.png",
+  "edition": 216,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

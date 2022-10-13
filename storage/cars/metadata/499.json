@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #499",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/499.png",
+  "edition": 499,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hell Flame"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #21",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/21.png",
+  "edition": 21,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

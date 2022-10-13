@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #423",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/423.png",
+  "edition": 423,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

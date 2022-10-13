@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #267",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/267.png",
+  "edition": 267,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Classic Drop Top"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MGK 0047"
+    }
+  ]
+}

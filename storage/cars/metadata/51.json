@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #51",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/51.png",
+  "edition": 51,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hell Flame"
+    }
+  ]
+}

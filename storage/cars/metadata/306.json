@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #306",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/306.png",
+  "edition": 306,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

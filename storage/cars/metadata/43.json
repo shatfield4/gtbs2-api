@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #43",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/43.png",
+  "edition": 43,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

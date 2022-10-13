@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #176",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/176.png",
+  "edition": 176,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "The Punisher"
+    }
+  ]
+}

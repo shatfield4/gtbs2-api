@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #445",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/445.png",
+  "edition": 445,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #156",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/156.png",
+  "edition": 156,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

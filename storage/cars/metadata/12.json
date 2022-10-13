@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #12",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/12.png",
+  "edition": 12,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #380",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/380.png",
+  "edition": 380,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

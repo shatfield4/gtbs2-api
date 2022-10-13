@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #90",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/90.png",
+  "edition": 90,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

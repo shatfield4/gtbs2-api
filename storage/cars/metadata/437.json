@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #437",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/437.png",
+  "edition": 437,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "The Punisher"
+    }
+  ]
+}

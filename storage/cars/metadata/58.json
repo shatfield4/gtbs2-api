@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #58",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/58.png",
+  "edition": 58,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "The Punisher"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #374",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/374.png",
+  "edition": 374,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #194",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/194.png",
+  "edition": 194,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

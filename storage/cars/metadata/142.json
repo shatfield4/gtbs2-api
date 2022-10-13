@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #142",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/142.png",
+  "edition": 142,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Homing Gun"
+    }
+  ]
+}

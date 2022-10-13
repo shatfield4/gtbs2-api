@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #22",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/22.png",
+  "edition": 22,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #220",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/220.png",
+  "edition": 220,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

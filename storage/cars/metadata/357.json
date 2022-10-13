@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #357",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/357.png",
+  "edition": 357,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

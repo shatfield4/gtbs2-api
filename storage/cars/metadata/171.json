@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #171",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/171.png",
+  "edition": 171,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Phaser Gun"
+    }
+  ]
+}

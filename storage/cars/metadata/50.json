@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #50",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/50.png",
+  "edition": 50,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

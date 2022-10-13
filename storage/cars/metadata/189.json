@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #189",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/189.png",
+  "edition": 189,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

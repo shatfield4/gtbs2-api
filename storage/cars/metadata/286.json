@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #286",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/286.png",
+  "edition": 286,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "The Punisher"
+    }
+  ]
+}

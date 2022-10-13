@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #378",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/378.png",
+  "edition": 378,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

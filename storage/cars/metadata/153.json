@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #153",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/153.png",
+  "edition": 153,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

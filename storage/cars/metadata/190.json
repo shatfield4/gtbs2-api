@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #190",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/190.png",
+  "edition": 190,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #111",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/111.png",
+  "edition": 111,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

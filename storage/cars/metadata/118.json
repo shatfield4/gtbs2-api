@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #118",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/118.png",
+  "edition": 118,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

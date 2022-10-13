@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #72",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/72.png",
+  "edition": 72,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hell Flame"
+    }
+  ]
+}

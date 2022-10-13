@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #356",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/356.png",
+  "edition": 356,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "The Punisher"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #63",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/63.png",
+  "edition": 63,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Phaser Gun"
+    }
+  ]
+}

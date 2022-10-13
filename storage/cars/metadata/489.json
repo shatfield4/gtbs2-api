@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #489",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/489.png",
+  "edition": 489,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "The Punisher"
+    }
+  ]
+}

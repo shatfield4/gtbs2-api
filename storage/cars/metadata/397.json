@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #397",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/397.png",
+  "edition": 397,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

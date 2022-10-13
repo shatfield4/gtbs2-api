@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #57",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/57.png",
+  "edition": 57,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Rotary SubMachine Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #448",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/448.png",
+  "edition": 448,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Classic Drop Top"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

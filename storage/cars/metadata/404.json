@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #404",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/404.png",
+  "edition": 404,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

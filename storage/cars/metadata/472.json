@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #472",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/472.png",
+  "edition": 472,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

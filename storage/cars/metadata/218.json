@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #218",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/218.png",
+  "edition": 218,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Phaser Gun"
+    }
+  ]
+}

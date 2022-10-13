@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #140",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/140.png",
+  "edition": 140,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hell Flame"
+    }
+  ]
+}

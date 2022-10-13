@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #120",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/120.png",
+  "edition": 120,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Homing Gun"
+    }
+  ]
+}

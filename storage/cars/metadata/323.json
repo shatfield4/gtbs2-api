@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #323",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/323.png",
+  "edition": 323,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow 675LT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "The Punisher"
+    }
+  ]
+}

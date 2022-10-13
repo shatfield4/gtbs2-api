@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #412",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/412.png",
+  "edition": 412,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Homing Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #393",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/393.png",
+  "edition": 393,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

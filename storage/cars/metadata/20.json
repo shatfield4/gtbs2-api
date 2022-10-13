@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #20",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/20.png",
+  "edition": 20,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue 675LT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #362",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/362.png",
+  "edition": 362,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Rotary SubMachine Gun"
+    }
+  ]
+}

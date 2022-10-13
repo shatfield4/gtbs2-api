@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #458",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/458.png",
+  "edition": 458,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue 675LT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Homing Gun"
+    }
+  ]
+}

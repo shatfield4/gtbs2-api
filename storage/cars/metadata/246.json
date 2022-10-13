@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #246",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/246.png",
+  "edition": 246,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow 675LT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #198",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/198.png",
+  "edition": 198,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #223",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/223.png",
+  "edition": 223,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MGK 0047"
+    }
+  ]
+}

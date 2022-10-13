@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #208",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/208.png",
+  "edition": 208,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Rotary SubMachine Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #477",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/477.png",
+  "edition": 477,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red 675LT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

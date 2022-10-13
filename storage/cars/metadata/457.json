@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #457",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/457.png",
+  "edition": 457,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

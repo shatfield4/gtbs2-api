@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #62",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/62.png",
+  "edition": 62,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Rotary SubMachine Gun"
+    }
+  ]
+}

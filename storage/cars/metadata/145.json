@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #145",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/145.png",
+  "edition": 145,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue 675LT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hell Flame"
+    }
+  ]
+}

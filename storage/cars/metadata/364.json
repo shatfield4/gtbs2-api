@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #364",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/364.png",
+  "edition": 364,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Phaser Gun"
+    }
+  ]
+}

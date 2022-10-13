@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #34",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/34.png",
+  "edition": 34,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow 675LT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

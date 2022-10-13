@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #25",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/25.png",
+  "edition": 25,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Rotary SubMachine Gun"
+    }
+  ]
+}

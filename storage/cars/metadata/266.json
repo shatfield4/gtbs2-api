@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #266",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/266.png",
+  "edition": 266,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

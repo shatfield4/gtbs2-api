@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #280",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/280.png",
+  "edition": 280,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

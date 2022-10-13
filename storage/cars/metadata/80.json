@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #80",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/80.png",
+  "edition": 80,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

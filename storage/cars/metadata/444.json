@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #444",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/444.png",
+  "edition": 444,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "The Punisher"
+    }
+  ]
+}

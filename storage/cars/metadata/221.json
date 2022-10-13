@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #221",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/221.png",
+  "edition": 221,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MGK 0047"
+    }
+  ]
+}

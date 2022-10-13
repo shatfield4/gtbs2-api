@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #205",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/205.png",
+  "edition": 205,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

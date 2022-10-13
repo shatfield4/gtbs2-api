@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #30",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/30.png",
+  "edition": 30,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Classic Drop Top"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #70",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/70.png",
+  "edition": 70,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

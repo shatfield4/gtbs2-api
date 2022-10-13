@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #343",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/343.png",
+  "edition": 343,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hell Flame"
+    }
+  ]
+}

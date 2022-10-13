@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #106",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/106.png",
+  "edition": 106,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

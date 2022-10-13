@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #84",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/84.png",
+  "edition": 84,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

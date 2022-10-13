@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #384",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/384.png",
+  "edition": 384,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hell Flame"
+    }
+  ]
+}

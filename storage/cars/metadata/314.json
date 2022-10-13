@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #314",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/314.png",
+  "edition": 314,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Homing Gun"
+    }
+  ]
+}

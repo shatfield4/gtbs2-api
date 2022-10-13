@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #461",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/461.png",
+  "edition": 461,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hell Flame"
+    }
+  ]
+}

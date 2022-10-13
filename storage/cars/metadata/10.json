@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #10",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/10.png",
+  "edition": 10,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Grenade Launcher"
+    }
+  ]
+}

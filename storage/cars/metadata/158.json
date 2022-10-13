@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #158",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/158.png",
+  "edition": 158,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Homing Gun"
+    }
+  ]
+}

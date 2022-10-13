@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #413",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/413.png",
+  "edition": 413,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

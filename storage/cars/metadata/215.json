@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #215",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/215.png",
+  "edition": 215,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

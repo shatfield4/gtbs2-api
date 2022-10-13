@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #31",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/31.png",
+  "edition": 31,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Homing Gun"
+    }
+  ]
+}

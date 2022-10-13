@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #87",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/87.png",
+  "edition": 87,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "The Punisher"
+    }
+  ]
+}

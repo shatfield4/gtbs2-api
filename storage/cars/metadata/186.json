@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #186",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/186.png",
+  "edition": 186,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #361",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/361.png",
+  "edition": 361,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Classic Drop Top"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

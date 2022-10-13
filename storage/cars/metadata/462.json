@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #462",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/462.png",
+  "edition": 462,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Rotary SubMachine Gun"
+    }
+  ]
+}

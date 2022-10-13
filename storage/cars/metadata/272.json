@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #272",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/272.png",
+  "edition": 272,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Phaser Gun"
+    }
+  ]
+}

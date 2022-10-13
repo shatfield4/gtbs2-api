@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #424",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/424.png",
+  "edition": 424,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Convertible"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

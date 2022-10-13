@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #260",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/260.png",
+  "edition": 260,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Mini Gun"
+    }
+  ]
+}

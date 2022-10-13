@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #143",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/143.png",
+  "edition": 143,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Charger"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MGK 0047"
+    }
+  ]
+}

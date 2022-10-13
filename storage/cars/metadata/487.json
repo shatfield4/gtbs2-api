@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #487",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/487.png",
+  "edition": 487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

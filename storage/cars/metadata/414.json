@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #414",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/414.png",
+  "edition": 414,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Rotary SubMachine Gun"
+    }
+  ]
+}

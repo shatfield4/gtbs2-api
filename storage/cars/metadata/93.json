@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #93",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/93.png",
+  "edition": 93,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MGK 0047"
+    }
+  ]
+}

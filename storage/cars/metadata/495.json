@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #495",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/495.png",
+  "edition": 495,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Classic Drop Top"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Remote Gatling Gun"
+    }
+  ]
+}

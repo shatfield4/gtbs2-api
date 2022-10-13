@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #184",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/184.png",
+  "edition": 184,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hell Flame"
+    }
+  ]
+}

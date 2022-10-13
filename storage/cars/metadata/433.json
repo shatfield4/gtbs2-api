@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #433",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/433.png",
+  "edition": 433,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver AMG GT"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Phaser Gun"
+    }
+  ]
+}

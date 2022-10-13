@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #149",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/149.png",
+  "edition": 149,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

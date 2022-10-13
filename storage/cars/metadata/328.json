@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #328",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/328.png",
+  "edition": 328,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Homing Gun"
+    }
+  ]
+}

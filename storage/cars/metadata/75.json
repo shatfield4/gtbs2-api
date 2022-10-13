@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #75",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/75.png",
+  "edition": 75,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hyperbeam Phaser"
+    }
+  ]
+}

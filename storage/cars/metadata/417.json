@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #417",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/417.png",
+  "edition": 417,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Vette"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

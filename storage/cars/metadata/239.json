@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #239",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/239.png",
+  "edition": 239,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bacon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Huracan STO"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ]
+}

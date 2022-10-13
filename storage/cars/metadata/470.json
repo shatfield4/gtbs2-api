@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #470",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/470.png",
+  "edition": 470,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Porsche RWB"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Suppressed Machine Gun"
+    }
+  ]
+}

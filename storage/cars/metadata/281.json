@@ -1,0 +1,20 @@
+{
+  "name": "GTB Car #281",
+  "description": "GTB Car description",
+  "image": "ipfs://NewUriToReplace/281.png",
+  "edition": 281,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Classic Chevy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Phaser Gun"
+    }
+  ]
+}
