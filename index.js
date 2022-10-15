@@ -2,16 +2,18 @@ const express = require('express')
 const path = require('path')
 const fs = require('fs')
 const ethers = require('ethers')
+const GTBCarsABI = require('./abi/GTBCars.json')
 
 const HOST = "http://localhost" // const HOST = "apiv2.grandtheftbacon.com"
 const PORT = process.env.PORT || 80
-const JSON_RPC = "https://mainnet.infura.io/v3/36c8e03c7ac84172ba1193c00c954e25"
+const JSON_RPC = "https://goerli.infura.io/v3/7b050d0db39f444e849f866cfac6c585"
+// const JSON_RPC = "https://mainnet.infura.io/v3/36c8e03c7ac84172ba1193c00c954e25"
 
 // Initialize contracts
-const abi = [{"inputs":[],"name":"totalSupply","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"}]
-const provider = ethers.getDefaultProvider()
-const contractAddress = "0x47b513D33D6E2B6F071b09CFbd7F4eDfF29CE07A"
-const carsContract = new ethers.Contract(contractAddress, abi, provider)
+const provider = ethers.getDefaultProvider("goerli")
+// const contractAddress = "0x47b513D33D6E2B6F071b09CFbd7F4eDfF29CE07A" 
+const contractAddress = "0xF3c7921a05506e1dA50647dc4c024FF17A0C20d2" // Goerli cars contract
+const carsContract = new ethers.Contract(contractAddress, GTBCarsABI, provider)
 
 const app = express()
   .set('port', PORT)
@@ -32,9 +34,14 @@ app.use('/cars/images', express.static('./storage/cars/images'));
 // Metadata endpoint for cars contract
 app.get('/nft/cars/:token_id', async function(req, res) {
     const tokenId = parseInt(req.params.token_id).toString()
-    const maxSupply = 500
 
-    let totalSupply = await carsContract.totalSupply() // Get current totalSupply from cars contract to make sure token is minted
+    // Check DB is token_id has been queried already and if so, return info from DB
+    // SELECT * FROM CARS WHERE token_id = $tokenId
+    // DB stores car_type
+
+    const maxSupply = 500
+    // Get current totalSupply from cars contract to make sure token is minted
+    let totalSupply = await carsContract.totalSupply()
 
     // Check that tokenId provided is a valid tokenId
     if (parseInt(tokenId) < 1 || parseInt(tokenId) > maxSupply || tokenId > Number(ethers.utils.formatUnits(totalSupply, 0))) {
@@ -45,46 +52,44 @@ app.get('/nft/cars/:token_id', async function(req, res) {
         return;
     }
 
-
-
     // Get car type from gtbCars contract (ethers.js call getTokenTraits() and store in carType)
-
-    /*
-    *  ETHERS CALL
-    */
-   
-    let carType = 2;
-    carType = (Number(ethers.utils.formatUnits(await carsContract.totalSupply(), 0)) - 3829).toString()
+    let carTokenTraits = await carsContract.getTokenTraits(tokenId)
+    let {0: carType, 1: alpharank} = carTokenTraits
+    // Convert carType to string
+    carType = ethers.utils.formatUnits(carType, 0).toString()
 
     fs.readFile('./storage/cars/metadata/' + tokenId + '.json', (err, fileObj) => {
     if (err) throw err;
     let file = JSON.parse(fileObj);
     let jsonAttributes = file['attributes'];
 
-
-
-    // Append carType to jsonAttributes
-    jsonAttributes.push({
-        "trait_type": "Type",
-        "value": carType
-    })
-
     // Set name for car based on carType recieved from gtbCars smart contract
-    let carName;
+    let carName
+    let typeName
     switch(carType) {
         case "0": {
             carName = `Police Cruiser #${tokenId}`
+            typeName = 'Police Cruiser'
             break
         }
         case "1": {
             carName = `Getaway Car #${tokenId}`
+            typeName = 'Getaway Car'
             break
         }
         case "2": {
             carName = `Supercar #${tokenId}`
+            typeName = 'Supercar'
             break
         }
     }
+
+    // Append carType to jsonAttributes
+    jsonAttributes.push({
+        "trait_type": "Type",
+        "value": typeName
+    })
+
     const data = {
         "name": carName,
         "description": "GTB Cars add advantages to your heists no matter which side you are on. If you are lucky enough to get 1 of 500 cars, be wise with how you use it...",
@@ -100,9 +105,9 @@ app.get('/nft/cars/:token_id', async function(req, res) {
 })
 
 // Route for Bacons S2
+app.get('/nft/bacon2/:token_id', async function(req, res) {
 
-// Route for Cars
-
+})
 // Route for Items
 
 // Expose /items/images folder
