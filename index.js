@@ -64,6 +64,15 @@ function checkCarDB(tokenId){
 app.get('/nft/cars/:token_id', async function(req, res) {
 
     const tokenId = parseInt(req.params.token_id).toString()
+
+    // Sanitize input
+    if(isNaN(tokenId)){
+        errorData = {
+            'Error' : 'Token ID does not exist'
+        }
+        res.send(errorData)
+        return;
+    }
     let data = await checkCarDB(tokenId)
 
     if (data === null){
