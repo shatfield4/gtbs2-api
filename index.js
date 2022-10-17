@@ -4,8 +4,6 @@ const fs = require('fs')
 const ethers = require('ethers')
 const sqlite3 = require('sqlite3')
 const GTBCarsABI = require('./abi/GTBCars.json')
-const e = require('express')
-const { resolve } = require('path')
 
 const HOST = "http://localhost" // const HOST = "apiv2.grandtheftbacon.com"
 const PORT = process.env.PORT || 80
