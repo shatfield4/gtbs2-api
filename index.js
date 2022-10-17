@@ -43,8 +43,8 @@ function checkCarDB(tokenId){
 
         db.get(sqlCheckExists, (err, row) => {
             if (err) {
-              return console.error(err.message)
-              reject(err)
+                reject(err)
+                return console.error(err.message)
             } else {
                 if(row){
                     const data = {
