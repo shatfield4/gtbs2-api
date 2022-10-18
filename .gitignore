@@ -1,2 +1,4 @@
 node_modules/
+storage/bacon
+storage/cop
 .env

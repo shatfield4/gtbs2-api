@@ -160,30 +160,27 @@ app.get('/nft/bacon2/:token_id', async function(req, res) {
         }
     
         // Get bacon type from gtbS2 contract (ethers.js call getTokenTraits() and store in isCop)
-        let baconS2Traits = await web3Contracts.carsContract.getTokenTraits(tokenId)
+        let baconS2Traits = await web3Contracts.gtbs2Contract.getTokenTraits(tokenId)
         let {0: isCop, 1: alpharank} = baconS2Traits
-        // Convert isCop to 1 or 0
-        isCop = ethers.utils.formatUnits(isCop, 0).toString()
-                /*
-                 FIX METADATA FOLDERS
-                */
+
         data = await new Promise((resolve, reject) => {
-            fs.readFile('./storage/cars/metadata/' + tokenId + '.json', (err, fileObj) => {
+            fs.readFile(`./storage/${ isCop ? 'cop' : 'bacon' }/metadata/` + tokenId + '.json', (err, fileObj) => {
+
                 if (err) throw err;
                 let file = JSON.parse(fileObj);
                 let jsonAttributes = file['attributes'];
         
-                // Set name for car based on carType recieved from gtbCars smart contract
-                let carName
+                // Set name for bacon based on isCop recieved from bacons2 smart contract
+                let baconName
                 let typeName
-                switch(carType) {
-                    case "0": {
-                        carName = `Cop Bacon S2 #${tokenId}`
+                switch(isCop) {
+                    case false: {
+                        baconName = `Bacon S2 #${tokenId}`
                         typeName = 'Bacon'
                         break
                     }
-                    case "1": {
-                        carName = `Cop Bacon S2 #${tokenId}`
+                    case true: {
+                        baconName = `Cop Bacon S2 #${tokenId}`
                         typeName = 'Cop Bacon'
                         break
                     }
@@ -195,16 +192,12 @@ app.get('/nft/bacon2/:token_id', async function(req, res) {
                     "value": typeName
                 })
 
-                /*
-                 STOPPED HERE
-                */
-
                 // Serialize data from blockchain
                 let dataSQL = []
                 dataSQL.push(tokenId.toString())
-                dataSQL.push(carName.toString())
-                dataSQL.push("GTB Cars add advantages to your heists no matter which side you are on. If you are lucky enough to get 1 of 500 cars, be wise with how you use it...")
-                dataSQL.push(`${HOST}/cars/images/${tokenId}.png`)
+                dataSQL.push(baconName.toString())
+                dataSQL.push("GTB Stage 2 has new and surprising mechanics, be careful in the descisions you make...")
+                dataSQL.push(`${HOST}/${ isCop ? 'cop' : 'bacon' }/images/${tokenId}.jpg`)
                 dataSQL.push(JSON.stringify(jsonAttributes))
 
                 // Construct SQL
@@ -220,9 +213,9 @@ app.get('/nft/bacon2/:token_id', async function(req, res) {
                 })
         
                 data = {
-                    "name": carName,
-                    "description": "GTB Cars add advantages to your heists no matter which side you are on. If you are lucky enough to get 1 of 500 cars, be wise with how you use it...",
-                    "image": `${HOST}/cars/images/${tokenId}.png`,
+                    "name": baconName,
+                    "description": "GTB Stage 2 has new and surprising mechanics, be careful in the descisions you make...",
+                    "image": `${HOST}/${ isCop ? 'cop' : 'bacon' }/images/${tokenId}.jpg`,
                     "attributes": jsonAttributes,
                 }
 
@@ -233,10 +226,15 @@ app.get('/nft/bacon2/:token_id', async function(req, res) {
         
     }
 
-    console.log(data)
     res.send(data)
 
 })
+
+// Expose /bacon/images
+app.use('/bacon/images', express.static('./storage/bacon/images'));
+// Expose /cop/images
+app.use('/cop/images', express.static('./storage/cop/images'));
+
 // Route for Items
 app.get('/nft/items/:token_id', async function(req, res) {
     
