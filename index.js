@@ -237,7 +237,118 @@ app.use('/cop/images', express.static('./storage/cop/images'));
 
 // Route for Items
 app.get('/nft/items/:token_id', async function(req, res) {
+    const tokenId = parseInt(req.params.token_id).toString()
+
+    // Sanitize input
+    if(isNaN(tokenId)){
+        errorData = {
+            'Error' : 'Token ID does not exist'
+        }
+        res.send(errorData)
+        return;
+    }
+    let data = await sqlite.checkItemDB(tokenId)
+    if (data === null){
+        const maxSupply = 10000
+        // Get current totalSupply from gtbS2 contract to make sure token is minted
+        let totalSupply = await web3Contracts.itemsContract.totalSupply()
+        // Check that tokenId provided is a valid tokenId
+        if (parseInt(tokenId) < 1 || parseInt(tokenId) > maxSupply || tokenId > Number(ethers.utils.formatUnits(totalSupply, 0))) {
+            errorData = {
+                'Error' : 'Token ID does not exist'
+            }
+            res.send(errorData)
+            return;
+        }
     
+        // Get item type from items contract (ethers.js call getTokenTraits() and store in isCop)
+        let itemTraits = await web3Contracts.itemsContract.getTokenTraits(tokenId)
+        let {0: itemType, 1: alpharank} = itemTraits
+        
+        itemType = ethers.utils.formatUnits(itemType, 0).toString()
+        
+        /* Item types
+         *
+         * baseballBat = 0
+         * glock = 1
+         * shotgun = 2
+         * smg = 3
+         * grenadeLauncher = 4
+         */
+
+        data = await new Promise((resolve, reject) => {
+            // Set name for items based on itemType recieved from items smart contract
+            let itemName
+            let typeName
+            switch(itemType) {
+                case "0": {
+                    itemName = `Baseball Bat #${tokenId}`
+                    typeName = 'Baseball Bat'
+                    break
+                }
+                case "1": {
+                    itemName = `Glock #${tokenId}`
+                    typeName = 'Glock'
+                    break
+                }
+                case "2": {
+                    itemName = `Shotgun #${tokenId}`
+                    typeName = 'Shotgun'
+                    break
+                }
+                case "3": {
+                    itemName = `SMG #${tokenId}`
+                    typeName = 'SMG'
+                    break
+                }
+                case "4": {
+                    itemName = `Grenade Launcher #${tokenId}`
+                    typeName = 'Grenade Launcher'
+                    break
+                }
+            }
+    
+            // Append typeName to jsonAttributes
+            let jsonAttributes = [];
+            jsonAttributes.push({
+                "trait_type": "Type",
+                "value": typeName
+            })
+
+            // Serialize data from blockchain
+            let dataSQL = []
+            dataSQL.push(tokenId.toString())
+            dataSQL.push(itemName.toString())
+            dataSQL.push("GTB Items introduces new and surprising mechanics, be careful in the descisions you make...")
+            dataSQL.push(`${HOST}/items/images/${itemType}.png`)
+            dataSQL.push(JSON.stringify(jsonAttributes))
+
+            // Construct SQL
+            let sqlPlaceholders = dataSQL.map((item) => '\'' + item + '\'' ).join(',')
+            let sqlQuery = 'INSERT INTO items (token_id, name, description, image, attributes) VALUES (' + sqlPlaceholders + ')'
+
+            // Insert into database
+            sqlite.db.run(sqlQuery, function(err) {
+                if (err) {
+                    console.log(err)
+                    reject(err)
+                }
+            })
+    
+            data = {
+                "name": itemName,
+                "description": "GTB Items introduces new and surprising mechanics, be careful in the descisions you make...",
+                "image": `${HOST}/items/images/${itemType}.png`,
+                "attributes": jsonAttributes,
+            }
+
+            resolve(data)
+        
+        })
+        
+    }
+
+    res.send(data)
 })
 // Expose /items/images folder
 app.use('/items/images', express.static('./storage/items/images'));
